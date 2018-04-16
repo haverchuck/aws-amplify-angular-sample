@@ -1,6 +1,0 @@
-{
-	"SourceDir": "src",
-	"DistributionDir": "dist",
-	"BuildCommand": "ng serve",
-	"StartCommand": "npm run test"
-}
